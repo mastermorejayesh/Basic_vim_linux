@@ -22,7 +22,7 @@ Serch a word in file :/word
 Serch a next word in file when serching : n
 **************************************************************************************************************
 
-<h3>Bottom to top search
+<h3>Bottom to top search </h3>
   
 Serch a word in file :?word
 
