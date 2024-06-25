@@ -28,12 +28,16 @@ Serch a word in file :?word
 search a world appers in cursor : *
 search a revers world appers in cursor : #
 **************************************************************************************************************
+
 <h3>Delete</h3>
+
 delete/cut single line : dd
 delete line after 10 rows : 10dd
 delete whole data: esc + gg + d + shit + g
 **************************************************************************************************************
+
 <h3>cut/pest</h3>
+
 cut : dd
 pest : p {below the cursor}
 pest : shift + p {above the cursor}
@@ -45,10 +49,8 @@ select one whole line : shift + v
 select whole line or multipal  data : small-v(visual mode)
 copy selected data : small-y (yanked)
 pest : small-p
-
 **************************************************************************************************************
-s
-et line number in our file : set nu --
+set line number in our file : set nu --
 (it is only temporery given lines if we save this file with nu line this not saved it is only temp)
 remove set line number in our file : set nonu
 ****************************************************************************************************************
