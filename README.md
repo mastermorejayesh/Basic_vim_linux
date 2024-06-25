@@ -1,7 +1,7 @@
-To jump last line of the file : Shift + g (captial G)
-To jump top line of the file : small - gg
-To jump last word of the line : shift + a
-To jump frist word of the line : shift + i
+To jump last line of the file : Shift + g (captial G)------
+To jump top line of the file : small - gg-------
+To jump last word of the line : shift + a------
+To jump frist word of the line : shift + i-------
 <h3>Replace and undo</h3>
 : %s/word which to replace/word want to replace /g
 Undo : u
