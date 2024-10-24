@@ -27,7 +27,7 @@ Serch a next word in file when serching : n
 Serch a word in file :?word
 
 **************************************************************************************************************
-search a world appers in cursor : *
+search a word appers in cursor : *
 search a revers world appers in cursor : #
 **************************************************************************************************************
 
